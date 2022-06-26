@@ -75,7 +75,11 @@ export function Subscribe() {
         </div>
       </div>
 
-      <img src="/src/assets/code-mockup.png" className="mt-10" alt="" />
+      <img
+        src="https://github.com/taispestana/ignite-lab-react/blob/master/src/assets/code-mockup.png?raw=true"
+        className="mt-10"
+        alt=""
+      />
     </div>
   );
 }
