@@ -42,7 +42,7 @@ export function Subscribe() {
             oportunidades do mercado.
           </p>
         </div>
-        <div className="p-8 bg-gray-700 border border-gray-500 tounded">
+        <div className="p-8 mt-8 bg-gray-700 border border-gray-500 tounded">
           <strong className="text-2xl mb-6 block">
             Inscreva-se gratuitamente
           </strong>
@@ -77,7 +77,7 @@ export function Subscribe() {
 
       <img
         src="https://github.com/taispestana/ignite-lab-react/blob/master/src/assets/code-mockup.png?raw=true"
-        className="mt-10"
+        className="mt-4"
         alt=""
       />
     </div>
